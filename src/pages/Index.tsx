@@ -1,12 +1,27 @@
-// Update this page (the content is just a fallback if you fail to update the page)
+
+import { useState } from "react";
+import { HeroBanner } from "@/components/HeroBanner";
+import { LivePolls } from "@/components/LivePolls";
+import { NewsCarousel } from "@/components/NewsCarousel";
+import { LeaderReviews } from "@/components/LeaderReviews";
+import { WeeklyHighlights } from "@/components/WeeklyHighlights";
+import { HaveYourSay } from "@/components/HaveYourSay";
+import { Footer } from "@/components/Footer";
+import { Header } from "@/components/Header";
 
 const Index = () => {
   return (
-    <div className="min-h-screen flex items-center justify-center bg-background">
-      <div className="text-center">
-        <h1 className="text-4xl font-bold mb-4">Welcome to Your Blank App</h1>
-        <p className="text-xl text-muted-foreground">Start building your amazing project here!</p>
-      </div>
+    <div className="min-h-screen bg-gray-50">
+      <Header />
+      <main>
+        <HeroBanner />
+        <LivePolls />
+        <NewsCarousel />
+        <LeaderReviews />
+        <WeeklyHighlights />
+        <HaveYourSay />
+      </main>
+      <Footer />
     </div>
   );
 };
