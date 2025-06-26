@@ -11,7 +11,7 @@ const leadersData = [
     party: "BJP",
     rating: 4.2,
     reviews: 15420,
-    image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=400",
+    image: "https://images.unsplash.com/photo-1581092795360-fd1ca04f0952?w=400&h=400&fit=crop&crop=face",
     achievements: ["Digital India Initiative", "Swachh Bharat Mission", "Jan Dhan Yojana"],
     approval: 78
   },
@@ -22,7 +22,7 @@ const leadersData = [
     party: "Congress",
     rating: 3.8,
     reviews: 8930,
-    image: "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?w=400",
+    image: "https://images.unsplash.com/photo-1605810230434-7631ac76ec81?w=400&h=400&fit=crop&crop=face",
     achievements: ["Youth Empowerment Programs", "Rural Development Focus", "Education Reforms"],
     approval: 65
   },
@@ -33,7 +33,7 @@ const leadersData = [
     party: "AAP",
     rating: 4.0,
     reviews: 12100,
-    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400",
+    image: "https://images.unsplash.com/photo-1493962853295-0fd70327578a?w=400&h=400&fit=crop&crop=face",
     achievements: ["Free Electricity Scheme", "Education Revolution", "Healthcare Reforms"],
     approval: 72
   }
@@ -55,7 +55,7 @@ export const LeaderReviews = () => {
                 <img 
                   src={leader.image} 
                   alt={leader.name}
-                  className="w-20 h-20 rounded-full mx-auto mb-3 object-cover"
+                  className="w-24 h-24 rounded-full mx-auto mb-3 object-cover border-4 border-orange-100"
                 />
                 <h3 className="text-xl font-semibold text-gray-900">{leader.name}</h3>
                 <p className="text-gray-600">{leader.position}</p>
