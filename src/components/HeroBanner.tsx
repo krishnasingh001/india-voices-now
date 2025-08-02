@@ -11,9 +11,9 @@ export const HeroBanner = () => {
         <img 
           src="/lovable-uploads/6491487a-114a-4faa-b0a2-24f7e96fa054.png" 
           alt="Shravan Singh - BJP Leader Banner"
-          className="w-full h-full object-cover"
+          className="w-full h-full object-contain bg-gradient-to-r from-orange-100 to-yellow-100"
         />
-        <div className="absolute inset-0 bg-black/20"></div>
+        <div className="absolute inset-0 bg-black/10"></div>
       </div>
       
       {/* Content Overlay */}
