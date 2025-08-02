@@ -7,7 +7,7 @@ const activitiesData = [
     id: 1,
     title: "Environmental Conservation Drive",
     description: "Leading tree plantation initiatives to promote green environment and sustainable development in our community.",
-    image: "/lovable-uploads/0a45dc5e-5a0f-4548-976a-3651d8c33920.png",
+    image: "/india-voices-now/lovable-uploads/0a45dc5e-5a0f-4548-976a-3651d8c33920.png",
     location: "Lucknow, Uttar Pradesh",
     date: "Recent Initiative",
     participants: "Community volunteers"
@@ -16,7 +16,7 @@ const activitiesData = [
     id: 2,
     title: "Cultural & Religious Events",
     description: "Organizing and participating in cultural celebrations and religious ceremonies to strengthen community bonds.",
-    image: "/lovable-uploads/f8affacc-a71d-41cf-939f-eeab488f3ccc.png",
+    image: "/india-voices-now/lovable-uploads/f8affacc-a71d-41cf-939f-eeab488f3ccc.png",
     location: "Local Temple",
     date: "Ongoing",
     participants: "Community members"
@@ -25,7 +25,7 @@ const activitiesData = [
     id: 3,
     title: "Social Justice Advocacy",
     description: "Promoting awareness about justice, equality and fundamental rights through various social campaigns.",
-    image: "/lovable-uploads/ffa6120a-91a3-41f3-89ad-dc59d7d4abe6.png",
+    image: "/india-voices-now/lovable-uploads/ffa6120a-91a3-41f3-89ad-dc59d7d4abe6.png",
     location: "Uttar Pradesh",
     date: "International Justice Day",
     participants: "Social activists"
@@ -34,7 +34,7 @@ const activitiesData = [
     id: 4,
     title: "Community Gatherings & Outreach",
     description: "Actively engaging with local communities through traditional ceremonies and social gatherings.",
-    image: "/lovable-uploads/bd37a2be-65cb-4e8f-80fb-f5358b6ef2d9.png",
+    image: "/india-voices-now/lovable-uploads/bd37a2be-65cb-4e8f-80fb-f5358b6ef2d9.png",
     location: "Local Community Centers",
     date: "Regular Events",
     participants: "Community leaders & residents"
@@ -43,7 +43,7 @@ const activitiesData = [
     id: 5,
     title: "Tribute to Freedom Fighters",
     description: "Honoring the legacy of great freedom fighters like Shaheed Udham Singh through awareness campaigns.",
-    image: "/lovable-uploads/6ab097e0-e568-43c8-87eb-c8295138ec0a.png",
+    image: "/india-voices-now/lovable-uploads/6ab097e0-e568-43c8-87eb-c8295138ec0a.png",
     location: "Uttar Pradesh",
     date: "Martyr's Day",
     participants: "Youth & students"
@@ -52,7 +52,7 @@ const activitiesData = [
     id: 6,
     title: "Political Engagement & Leadership",
     description: "Working as an active member of Bharatiya Janata Party, representing the voice of the people in Lucknow.",
-    image: "/lovable-uploads/5260405d-c368-4281-b2f2-9d51d4b771cd.png",
+    image: "/india-voices-now/lovable-uploads/5260405d-c368-4281-b2f2-9d51d4b771cd.png",
     location: "Lucknow, Uttar Pradesh",
     date: "Ongoing",
     participants: "BJP workers & supporters"
