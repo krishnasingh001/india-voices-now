@@ -19,7 +19,7 @@ export const HeroBanner = () => {
       {/* Content Overlay */}
       <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/80 to-transparent py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center text-white">
+          <div className="text-left max-w-2xl text-white">
             <h1 className="text-3xl md:text-5xl font-bold mb-6">
               राष्ट्रवाद, विकास और सुशासन
               <span className="text-orange-400 block">भारतीय जनता पार्टी की पहचान</span>
