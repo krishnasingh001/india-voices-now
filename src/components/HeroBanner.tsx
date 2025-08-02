@@ -24,10 +24,6 @@ export const HeroBanner = () => {
               राष्ट्रवाद, विकास और सुशासन
               <span className="text-orange-400 block">भारतीय जनता पार्टी की पहचान</span>
             </h1>
-            <p className="text-xl mb-8 max-w-3xl mx-auto">
-              Join our mission for national development, good governance, and inclusive growth. 
-              Together we build a stronger India.
-            </p>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
               <Button size="lg" className="bg-orange-600 hover:bg-orange-700 text-white px-8 py-3">
