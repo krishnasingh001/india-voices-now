@@ -2,8 +2,7 @@
 import { useState } from "react";
 import { HeroBanner } from "@/components/HeroBanner";
 import { LivePolls } from "@/components/LivePolls";
-import { NewsCarousel } from "@/components/NewsCarousel";
-import { LeaderReviews } from "@/components/LeaderReviews";
+import { ActivitiesShowcase } from "@/components/ActivitiesShowcase";
 import { WeeklyHighlights } from "@/components/WeeklyHighlights";
 import { HaveYourSay } from "@/components/HaveYourSay";
 import { Footer } from "@/components/Footer";
@@ -16,8 +15,7 @@ const Index = () => {
       <main>
         <HeroBanner />
         <LivePolls />
-        <NewsCarousel />
-        <LeaderReviews />
+        <ActivitiesShowcase />
         <WeeklyHighlights />
         <HaveYourSay />
       </main>
