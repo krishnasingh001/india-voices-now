@@ -11,7 +11,7 @@ const pollData = [
     options: [
       { name: "Narendra Modi", votes: 45, color: "bg-orange-500" },
       { name: "Rahul Gandhi", votes: 28, color: "bg-blue-500" },
-      { name: "Arvind Kejriwal", votes: 15, color: "bg-yellow-500" },
+      { name: "Yogi Adityanath", votes: 15, color: "bg-yellow-500" },
       { name: "Others", votes: 12, color: "bg-gray-500" }
     ],
     totalVotes: 125000,

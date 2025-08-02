@@ -28,14 +28,14 @@ const leadersData = [
   },
   {
     id: 3,
-    name: "Arvind Kejriwal",
-    position: "Chief Minister, Delhi",
-    party: "AAP",
-    rating: 4.0,
-    reviews: 12100,
+    name: "Yogi Adityanath",
+    position: "Chief Minister, Uttar Pradesh",
+    party: "BJP",
+    rating: 4.2,
+    reviews: 15800,
     image: "https://images.unsplash.com/photo-1493962853295-0fd70327578a?w=400&h=400&fit=crop&crop=face",
-    achievements: ["Free Electricity Scheme", "Education Revolution", "Healthcare Reforms"],
-    approval: 72
+    achievements: ["Law & Order Improvement", "Infrastructure Development", "Religious Tourism"],
+    approval: 78
   }
 ];
 

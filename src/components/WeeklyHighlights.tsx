@@ -24,7 +24,7 @@ const highlightsData = [
   {
     type: "trending",
     title: "Trending Leader",
-    leader: "Arvind Kejriwal",
+    leader: "Yogi Adityanath",
     votes: "890K mentions",
     change: "+28%",
     icon: TrendingUp,

@@ -21,8 +21,8 @@ export const HeroBanner = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-left max-w-2xl text-white">
             <h1 className="text-3xl md:text-5xl font-bold mb-6">
-              राष्ट्रवाद, विकास और सुशासन
-              <span className="text-orange-400 block">भारतीय जनता पार्टी की पहचान</span>
+              <div className="mb-4">राष्ट्रवाद, विकास और सुशासन</div>
+              <span className="text-orange-400">भारतीय जनता पार्टी की पहचान</span>
             </h1>
             
             {/* Stats Cards */}
