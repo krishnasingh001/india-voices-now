@@ -5,39 +5,57 @@ import { MapPin, Calendar, Users } from "lucide-react";
 const activitiesData = [
   {
     id: 1,
-    title: "Community Development Initiative",
-    description: "Led infrastructure improvements in local neighborhoods including road repairs and street lighting installation.",
-    image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-    location: "Central District",
-    date: "Dec 2024",
-    participants: "500+ families benefited"
+    title: "Environmental Conservation Drive",
+    description: "Leading tree plantation initiatives to promote green environment and sustainable development in our community.",
+    image: "/lovable-uploads/0a45dc5e-5a0f-4548-976a-3651d8c33920.png",
+    location: "Lucknow, Uttar Pradesh",
+    date: "Recent Initiative",
+    participants: "Community volunteers"
   },
   {
     id: 2,
-    title: "Digital Literacy Program",
-    description: "Organized training sessions to help seniors and youth learn essential computer and internet skills.",
-    image: "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?w=800",
-    location: "Community Center",
-    date: "Nov 2024",
-    participants: "200+ participants"
+    title: "Cultural & Religious Events",
+    description: "Organizing and participating in cultural celebrations and religious ceremonies to strengthen community bonds.",
+    image: "/lovable-uploads/f8affacc-a71d-41cf-939f-eeab488f3ccc.png",
+    location: "Local Temple",
+    date: "Ongoing",
+    participants: "Community members"
   },
   {
     id: 3,
-    title: "Public Awareness Campaign",
-    description: "Conducted educational sessions on civic responsibilities and community engagement initiatives.",
-    image: "https://images.unsplash.com/photo-1605810230434-7631ac76ec81?w=800",
-    location: "Town Hall",
-    date: "Oct 2024",
-    participants: "300+ attendees"
+    title: "Social Justice Advocacy",
+    description: "Promoting awareness about justice, equality and fundamental rights through various social campaigns.",
+    image: "/lovable-uploads/ffa6120a-91a3-41f3-89ad-dc59d7d4abe6.png",
+    location: "Uttar Pradesh",
+    date: "International Justice Day",
+    participants: "Social activists"
   },
   {
     id: 4,
-    title: "Local Problem-Solving Workshop",
-    description: "Facilitated brainstorming sessions with residents to address local challenges and implement solutions.",
-    image: "https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?w=800",
-    location: "Community Hall",
-    date: "Sep 2024",
-    participants: "150+ residents"
+    title: "Community Gatherings & Outreach",
+    description: "Actively engaging with local communities through traditional ceremonies and social gatherings.",
+    image: "/lovable-uploads/bd37a2be-65cb-4e8f-80fb-f5358b6ef2d9.png",
+    location: "Local Community Centers",
+    date: "Regular Events",
+    participants: "Community leaders & residents"
+  },
+  {
+    id: 5,
+    title: "Tribute to Freedom Fighters",
+    description: "Honoring the legacy of great freedom fighters like Shaheed Udham Singh through awareness campaigns.",
+    image: "/lovable-uploads/6ab097e0-e568-43c8-87eb-c8295138ec0a.png",
+    location: "Uttar Pradesh",
+    date: "Martyr's Day",
+    participants: "Youth & students"
+  },
+  {
+    id: 6,
+    title: "Political Engagement & Leadership",
+    description: "Working as an active member of Bharatiya Janata Party, representing the voice of the people in Lucknow.",
+    image: "/lovable-uploads/5260405d-c368-4281-b2f2-9d51d4b771cd.png",
+    location: "Lucknow, Uttar Pradesh",
+    date: "Ongoing",
+    participants: "BJP workers & supporters"
   }
 ];
 
