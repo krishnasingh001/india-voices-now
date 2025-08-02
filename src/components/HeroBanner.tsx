@@ -25,16 +25,6 @@ export const HeroBanner = () => {
               <span className="text-orange-400 block">भारतीय जनता पार्टी की पहचान</span>
             </h1>
             
-            <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
-              <Button size="lg" className="bg-orange-600 hover:bg-orange-700 text-white px-8 py-3">
-                <Vote className="mr-2 h-5 w-5" />
-                Join Our Movement
-              </Button>
-              <Button size="lg" variant="outline" className="border-white text-white hover:bg-white/20 px-8 py-3">
-                Learn More
-              </Button>
-            </div>
-
             {/* Stats Cards */}
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-4xl mx-auto">
               <Card className="p-6 bg-white/90 backdrop-blur-sm">
